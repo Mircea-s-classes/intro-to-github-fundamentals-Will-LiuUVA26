@@ -106,3 +106,8 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+## William Liu Notes
+* I cloned the repo successfully on my terminal
+* I am editing the README file (this file)
+* I m also able to commit and push, assignment is done! will commit to finish
